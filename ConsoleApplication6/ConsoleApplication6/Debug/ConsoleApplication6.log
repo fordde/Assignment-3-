@@ -1,0 +1,4 @@
+﻿  ConsoleApplication6.cpp
+c:\users\mrdar\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(130): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication6.vcxproj -> C:\Users\mrdar\Documents\Visual Studio 2015\Projects\ConsoleApplication6\Debug\ConsoleApplication6.exe
+  ConsoleApplication6.vcxproj -> C:\Users\mrdar\Documents\Visual Studio 2015\Projects\ConsoleApplication6\Debug\ConsoleApplication6.pdb (Full PDB)
